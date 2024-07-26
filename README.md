@@ -1,6 +1,6 @@
 ## Hi there and welcome! 🖖 
 
-I'm Iryna, a QA engineer who loves to investigate the root causes of bugs and automate boring work (oh, and a cats😸). Let's keep in touch!🍀
+I'm Iryna, a QA engineer who loves to investigate the root causes of bugs and not afraid of boring work. Let's keep in touch!🍀
 
 <!--
 **I-Solodukhina/I-Solodukhina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
